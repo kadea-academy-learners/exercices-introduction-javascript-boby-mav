@@ -1,2 +1,1 @@
-//ce programme affiche un message hello world;
-
+// Ce programme affiche un message Hello World.
